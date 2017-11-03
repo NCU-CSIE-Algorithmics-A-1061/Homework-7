@@ -12,4 +12,4 @@ end
   winners << winner
 end
 
-p winners
+p winners # [14, 2, 8, 13, 3, 11, 4] by https://travis-ci.org/NCU-CSIE-Algorithmics-A-1061/Homework-7/jobs/296827886#L484
